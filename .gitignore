@@ -1,24 +1,5 @@
-# --- .NET build outputs ---
-bin/
-obj/
+# Microsoft Word temporary files
+~$*
 
-# Rider / VS cache
-.vs/
-.vscode/
-.idea/
-
-# User-specific files
-*.user
-*.suo
-*.rsuser
-*.sln.docstates
-
-# ASP.NET Core
-appsettings.*.json
-appsettings.Development.json
-
-# Logs
-*.log
-
-# Environment
-.env
+# Temporary files
+*.tmp
